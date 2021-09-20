@@ -16,3 +16,6 @@ function DNAStrand(dna) {
         .replace(/C/g, "g")
         .toUpperCase()
 }
+
+
+
